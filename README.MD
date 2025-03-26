@@ -22,3 +22,11 @@ This project focuses on clustering and classification of breast cancer data. It 
 
 - Python 3.x
 - Jupyter Notebook
+
+## TODO
+
+- [ ] Add detailed instructions for running the notebooks.
+- [ ] Include results and visualizations in the README.
+- [ ] Add a section for model evaluation metrics.
+- [ ] Provide a guide for replicating the feature engineering steps.
+- [ ] Update the requirements with specific library versions.
